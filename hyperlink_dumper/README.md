@@ -30,8 +30,6 @@ e.g. some times dumped url is like '/dep/it/' you have to make it like 'https://
 ## direct_linkmaker_v1.1.py
 Saperates links aswell as appnd url and discard any links that are having .pdf or .jpg or .jpeg extension
 
-## Working demo 
-![mail_dumper](https://github.com/shyam-chauhan/Offensive_python/assets/59696796/28322ce3-b844-4e33-b61c-ec7bfc98417c)
 
 
 
