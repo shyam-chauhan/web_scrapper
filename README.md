@@ -24,6 +24,14 @@
   cd mail_dumper
   ```
 
+- Install requirements
+
+  ```python
+  pip install requests
+  pip install tqdm
+  pip install bs4
+  ```
+
 - Execute file
   ```python
   python3 file.py
