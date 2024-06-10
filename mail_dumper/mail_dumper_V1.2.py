@@ -51,5 +51,6 @@ for url in tqdm(url,desc='getting mails ....'):
 				mails.append(i)
 	
 mail_set = set(mails)
-for i in mail_set:
-	print(i,'\n')
+with open('mails.txt','w') as f:
+	for i in mail_set:
+		f.write(i)
