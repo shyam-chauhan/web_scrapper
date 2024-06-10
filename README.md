@@ -3,6 +3,22 @@
 
 ## Prerequisites 
 - Python 3.x installed on your system.
+- requests
+  ```python
+   pip install requests
+  ```
+- beautifulsoup
+  ```python
+   pip install bs4
+  ```
+  or
+  ```python
+   pip install beautifulsoup4
+  ```
+- tqdm
+  ```python
+   pip install tqdm
+  ```
 
 ## Installation and usage 
 
@@ -23,15 +39,7 @@
   ```bash
   cd mail_dumper
   ```
-
-- Install requirements
-
-  ```python
-  pip install requests
-  pip install tqdm
-  pip install bs4
-  ```
-
+
 - Execute file
   ```python
   python3 file.py
