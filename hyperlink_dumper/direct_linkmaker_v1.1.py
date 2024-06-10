@@ -1,6 +1,6 @@
 direct = '://'
 
-url = 'https://ldce.ac.in'
+url = '#'
 
 linksw = open('all_links.txt','w')
 links = []
